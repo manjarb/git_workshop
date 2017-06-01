@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAOE,MAAI,CACF,KAAK,CAAE,IAAI,CACX,aAAS,CACP,KAAK,CAAE,MAAM,CCRnB,UAAW,CACT,UAAU,CAHC,IAAO",
+"sources": ["../scss/_home_page.scss","../scss/_second.scss"],
+"names": [],
+"file": "style.css"
+}

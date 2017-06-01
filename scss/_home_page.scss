@@ -1,0 +1,35 @@
+body {
+  h1 {
+    //color: white;
+    p {
+
+    }
+  }
+  > p {
+    color: blue;
+    &.yellow {
+      color: yellow;
+    }
+    &:hover,
+    &:active {
+
+    }
+  }
+  /*> p.yellow {
+    color: blue;
+  }*/
+  //background-color: red;
+}
+
+/*body h1 {
+  color: white;
+}*/
+
+/*
+body p {
+  color: blue;
+}*/
+
+/*body h1 p {
+  color: yellow;
+}*/
